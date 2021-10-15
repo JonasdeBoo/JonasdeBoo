@@ -1,0 +1,1 @@
+Hi, I am Jonas. I am interested in financial applications of Data Science. Currently working on a project that calculates sentiment from Twitter data and uses this sentiment data to improve GARCH based volatility forecasts of 13 major US companies.
